@@ -2,7 +2,7 @@ from aiogram import Bot, types, utils
 from aiogram.dispatcher import Dispatcher
 from aiogram.utils import executor
 
-TOKEN = '6279958249:AAFHXoApNlUhO3kbm8qnfYRVy58kn9dCRt0'
+TOKEN = ''
 URL_APP = ''
 
 bot = Bot(token=TOKEN)
